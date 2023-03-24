@@ -2,6 +2,7 @@
 This is a guide to enable auto-updating Plex Media Server on any QNAP servers
 It checks the host architecture for finding the needed build and compares the installed Version with the latest Version based on the Information of the Server Log file.
 JQ is needed to run the script
+Install entware via MyQnap Repo. Look at https://www.myqnap.org/
 
 # Instructions
 
